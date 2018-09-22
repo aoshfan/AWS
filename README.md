@@ -1,2 +1,2 @@
 # AWS
-This is my note about AWS
+This is my note on AWS
